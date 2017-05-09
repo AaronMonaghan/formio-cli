@@ -1,0 +1,2 @@
+npm install -g formio-cli
+formio copy form https://portal.form.io/#/project/590fc5731a12eb0080249938/form/590fcc23ad3ba1005dae4140/edit https://portal.form.io/#/project/590fc5731a12eb0080249938/form/59112d17ad3ba1005dae47e6/edit
